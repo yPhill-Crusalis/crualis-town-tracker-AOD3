@@ -1,6 +1,6 @@
 # .github/workflows/main.yml
 
-name: Download nodes-towns from Crusalis Website
+name: Download nodes-towns from Crusalis AOD3 Website
 
 on:
   schedule:
