@@ -8,6 +8,7 @@ on:
     - cron: '45 15 * * 6'
     - cron: '0 20 * * 6'
     - cron: '0 18 * * 4' 
+    - cron: '0 19 * * 5' 
   workflow_dispatch:
 
 jobs:
