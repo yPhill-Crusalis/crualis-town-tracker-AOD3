@@ -31,7 +31,8 @@
     "🟡 User was NOT online. (data from Sat, 20 Dec 2025 22:20:19 GMT)",
     "🟡 User was NOT online. (data from Sat, 20 Dec 2025 23:24:17 GMT)",
     "🟡 User was NOT online. (data from Sun, 21 Dec 2025 22:21:25 GMT)",
-    "🟡 User was NOT online. (data from Mon, 22 Dec 2025 22:22:58 GMT)"
+    "🟡 User was NOT online. (data from Mon, 22 Dec 2025 22:22:58 GMT)",
+    "🟢 User was online at Tue, 23 Dec 2025 22:15:11 GMT. (data from Tue, 23 Dec 2025 22:21:43 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -66,6 +67,7 @@
     "⬇ (data from Sat, 20 Dec 2025 22:20:19 GMT)",
     "⬇ (data from Sat, 20 Dec 2025 23:24:17 GMT)",
     "⬇ (data from Sun, 21 Dec 2025 22:21:25 GMT)",
-    "⬇ (data from Mon, 22 Dec 2025 22:22:58 GMT)"
+    "⬇ (data from Mon, 22 Dec 2025 22:22:58 GMT)",
+    "🏠 User joined town `Copenhagen` at Tue, 23 Dec 2025 21:47:40 GMT. (data from Tue, 23 Dec 2025 22:21:43 GMT)"
   ]
 }
