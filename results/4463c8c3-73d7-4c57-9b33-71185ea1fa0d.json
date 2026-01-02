@@ -47,7 +47,8 @@
     "🟢 User was online at Wed, 31 Dec 2025 19:23:48 GMT. (data from Wed, 31 Dec 2025 22:22:56 GMT)",
     "🟡 User was NOT online. (data from Thu, 01 Jan 2026 19:14:46 GMT)",
     "🟡 User was NOT online. (data from Thu, 01 Jan 2026 22:22:30 GMT)",
-    "🟢 User was online at Fri, 02 Jan 2026 18:21:31 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)"
+    "🟢 User was online at Fri, 02 Jan 2026 18:21:31 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)",
+    "🟢 User was online at Fri, 02 Jan 2026 19:23:35 GMT. (data from Fri, 02 Jan 2026 22:22:52 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -98,6 +99,7 @@
     "🏠 User joined town `Lisbon` at Wed, 31 Dec 2025 02:41:26 GMT. (data from Wed, 31 Dec 2025 22:22:56 GMT)",
     "⬇ (data from Thu, 01 Jan 2026 19:14:46 GMT)",
     "⬇ (data from Thu, 01 Jan 2026 22:22:30 GMT)",
-    "🏠 User joined town `Constantinople` at Fri, 02 Jan 2026 00:56:46 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)"
+    "🏠 User joined town `Constantinople` at Fri, 02 Jan 2026 00:56:46 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)",
+    "⬇ (data from Fri, 02 Jan 2026 22:22:52 GMT)"
   ]
 }
