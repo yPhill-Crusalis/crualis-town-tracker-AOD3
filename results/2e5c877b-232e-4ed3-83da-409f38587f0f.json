@@ -46,7 +46,8 @@
     "🚪 User has joined the server for the first time and was last online at at Tue, 30 Dec 2025 21:35:30 GMT. (data from Tue, 30 Dec 2025 22:22:12 GMT)",
     "🟢 User was online at Wed, 31 Dec 2025 03:35:45 GMT. (data from Wed, 31 Dec 2025 22:22:56 GMT)",
     "🟡 User was NOT online. (data from Thu, 01 Jan 2026 19:14:46 GMT)",
-    "🟡 User was NOT online. (data from Thu, 01 Jan 2026 22:22:30 GMT)"
+    "🟡 User was NOT online. (data from Thu, 01 Jan 2026 22:22:30 GMT)",
+    "🟡 User was NOT online. (data from Fri, 02 Jan 2026 19:11:25 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -96,6 +97,7 @@
     "🗺️ User joined server, but has no town. (data from Tue, 30 Dec 2025 22:22:12 GMT)",
     "🏠 User joined town `Paris` at Wed, 31 Dec 2025 02:05:55 GMT. (data from Wed, 31 Dec 2025 22:22:56 GMT)",
     "⬇ (data from Thu, 01 Jan 2026 19:14:46 GMT)",
-    "⬇ (data from Thu, 01 Jan 2026 22:22:30 GMT)"
+    "⬇ (data from Thu, 01 Jan 2026 22:22:30 GMT)",
+    "⬇ (data from Fri, 02 Jan 2026 19:11:25 GMT)"
   ]
 }
