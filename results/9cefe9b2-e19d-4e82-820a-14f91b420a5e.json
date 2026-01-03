@@ -50,7 +50,8 @@
     "🟢 User was online at Fri, 02 Jan 2026 15:45:08 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)",
     "🟡 User was NOT online. (data from Fri, 02 Jan 2026 22:22:52 GMT)",
     "🟢 User was online at Sat, 03 Jan 2026 17:33:34 GMT. (data from Sat, 03 Jan 2026 17:51:16 GMT)",
-    "🟢 User was online at Sat, 03 Jan 2026 21:01:58 GMT. (data from Sat, 03 Jan 2026 22:21:42 GMT)"
+    "🟢 User was online at Sat, 03 Jan 2026 21:01:58 GMT. (data from Sat, 03 Jan 2026 22:21:42 GMT)",
+    "🟡 User was NOT online. (data from Sat, 03 Jan 2026 23:26:06 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -104,6 +105,7 @@
     "⬇ (data from Fri, 02 Jan 2026 19:11:25 GMT)",
     "⬇ (data from Fri, 02 Jan 2026 22:22:52 GMT)",
     "⬇ (data from Sat, 03 Jan 2026 17:51:16 GMT)",
-    "🏠 User joined town `Edirne` at Sat, 03 Jan 2026 20:37:26 GMT. (data from Sat, 03 Jan 2026 22:21:42 GMT)"
+    "🏠 User joined town `Edirne` at Sat, 03 Jan 2026 20:37:26 GMT. (data from Sat, 03 Jan 2026 22:21:42 GMT)",
+    "⬇ (data from Sat, 03 Jan 2026 23:26:06 GMT)"
   ]
 }
