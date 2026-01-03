@@ -49,7 +49,8 @@
     "🟡 User was NOT online. (data from Thu, 01 Jan 2026 22:22:30 GMT)",
     "🟢 User was online at Thu, 01 Jan 2026 23:25:24 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)",
     "🟢 User was online at Fri, 02 Jan 2026 21:41:10 GMT. (data from Fri, 02 Jan 2026 22:22:52 GMT)",
-    "🟢 User was online at Sat, 03 Jan 2026 17:06:27 GMT. (data from Sat, 03 Jan 2026 17:51:16 GMT)"
+    "🟢 User was online at Sat, 03 Jan 2026 17:06:27 GMT. (data from Sat, 03 Jan 2026 17:51:16 GMT)",
+    "🟡 User was NOT online. (data from Sat, 03 Jan 2026 22:21:42 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -102,6 +103,7 @@
     "⬇ (data from Thu, 01 Jan 2026 22:22:30 GMT)",
     "🏠 User joined town `Leon` at Fri, 02 Jan 2026 16:50:53 GMT. (data from Fri, 02 Jan 2026 19:11:25 GMT)",
     "🏠 User joined town `Toletvm` at Fri, 02 Jan 2026 19:38:57 GMT. (data from Fri, 02 Jan 2026 22:22:52 GMT)",
-    "⬇ (data from Sat, 03 Jan 2026 17:51:16 GMT)"
+    "⬇ (data from Sat, 03 Jan 2026 17:51:16 GMT)",
+    "⬇ (data from Sat, 03 Jan 2026 22:21:42 GMT)"
   ]
 }
