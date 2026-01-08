@@ -56,7 +56,8 @@
     "🟢 User was online at Mon, 05 Jan 2026 18:58:51 GMT. (data from Mon, 05 Jan 2026 22:23:25 GMT)",
     "🟢 User was online at Tue, 06 Jan 2026 13:13:50 GMT. (data from Tue, 06 Jan 2026 22:24:20 GMT)",
     "🟢 User was online at Wed, 07 Jan 2026 12:43:39 GMT. (data from Wed, 07 Jan 2026 22:23:18 GMT)",
-    "🟢 User was online at Thu, 08 Jan 2026 17:02:31 GMT. (data from Thu, 08 Jan 2026 19:17:55 GMT)"
+    "🟢 User was online at Thu, 08 Jan 2026 17:02:31 GMT. (data from Thu, 08 Jan 2026 19:17:55 GMT)",
+    "🟡 User was NOT online. (data from Thu, 08 Jan 2026 22:23:57 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -116,6 +117,7 @@
     "⬇ (data from Mon, 05 Jan 2026 22:23:25 GMT)",
     "⬇ (data from Tue, 06 Jan 2026 22:24:20 GMT)",
     "⬇ (data from Wed, 07 Jan 2026 22:23:18 GMT)",
-    "⬇ (data from Thu, 08 Jan 2026 19:17:55 GMT)"
+    "⬇ (data from Thu, 08 Jan 2026 19:17:55 GMT)",
+    "⬇ (data from Thu, 08 Jan 2026 22:23:57 GMT)"
   ]
 }
