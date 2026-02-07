@@ -102,7 +102,8 @@
     "🚪 User has joined the server for the first time and was last online at at Thu, 05 Feb 2026 18:37:07 GMT. (data from Thu, 05 Feb 2026 19:35:21 GMT)",
     "🟡 User was NOT online. (data from Thu, 05 Feb 2026 22:30:20 GMT)",
     "🟡 User was NOT online. (data from Fri, 06 Feb 2026 19:34:47 GMT)",
-    "🟡 User was NOT online. (data from Fri, 06 Feb 2026 22:27:51 GMT)"
+    "🟡 User was NOT online. (data from Fri, 06 Feb 2026 22:27:51 GMT)",
+    "🟡 User was NOT online. (data from Sat, 07 Feb 2026 17:58:21 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Thu, 04 Dec 2025 20:41:11 GMT)",
@@ -208,6 +209,7 @@
     "🗺️ User joined server, but has no town. (data from Thu, 05 Feb 2026 19:35:21 GMT)",
     "⬇ (data from Thu, 05 Feb 2026 22:30:20 GMT)",
     "⬇ (data from Fri, 06 Feb 2026 19:34:47 GMT)",
-    "⬇ (data from Fri, 06 Feb 2026 22:27:51 GMT)"
+    "⬇ (data from Fri, 06 Feb 2026 22:27:51 GMT)",
+    "⬇ (data from Sat, 07 Feb 2026 17:58:21 GMT)"
   ]
 }
